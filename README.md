@@ -1,5 +1,5 @@
 # Welcome to my GitHub page
-#### My name is Rafael Darda Giannopoulos and I'm a security engineer and programmer.
+#### My name is Rafael Dardagiannopoulos and I'm a security engineer and programmer.
 #### You can see some of my own works just below.
 ## `Preview`
 #### [My Own Web Site](https://github.com/Rafail1992/MyOwnWebSite)
