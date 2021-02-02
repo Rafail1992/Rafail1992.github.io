@@ -6,3 +6,4 @@
 #### [My Own Web Site](https://github.com/Rafail1992/MyOwnWebSite)
 #### [Mini react calculator](https://github.com/Rafail1992/Mini_react_calculator)
 #### [React Project](https://github.com/Rafail1992/React_Project)
+#### [Mini Angular Project](https://github.com/Rafail1992/agular_number_creator)
